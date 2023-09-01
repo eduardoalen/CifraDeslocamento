@@ -1,3 +1,6 @@
+# Recebe uma mensagem do usuário e a quantidade vezes que ele deseja
+# rotacionar o alfabeto para que sua mensagem seja criptografada.
+
 #Recebe a mensagem e uma chave
 def Encriptar(mensagem, key):
 
